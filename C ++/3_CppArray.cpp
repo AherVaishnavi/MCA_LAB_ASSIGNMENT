@@ -1,3 +1,10 @@
+/*Implement a class CppArray which is identical to a one-dimensional C++ array (i.e., the
+  index set is a set of consecutive integers starting at 0) except for the following :
+   1. It performs range checking.
+   2. It allows one to be assigned to another array through the use of the assignment operator (e.g. cp1=cp2)
+   3. It supports a function that returns the size of thearray.
+   4. It allows the reading or printing of array through the use of coutandcin.*/
+
 #include<iostream.h>
 #include<conio.h>
 
