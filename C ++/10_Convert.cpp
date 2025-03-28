@@ -1,3 +1,11 @@
+/* Write C++ Program with base class convert declares two variables, val1 and val2, which
+  hold the initial and converted values, respectively. It also defines the functions getinit( )
+  and getconv( ), which return the initial value and the converted value. These elements of
+  convert are fixed and applicable to all derived classes that will inherit convert. However,
+  the function that will actually perform the conversion, compute( ), is a pure virtual
+  function that must be defined by the classes derived from convert. The specific nature of
+  compute( ) will be determined by what type of conversion is taking place. */
+
 #include<iostream.h>
 #include<conio.h>
 class Convert
