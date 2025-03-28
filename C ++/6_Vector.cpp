@@ -1,3 +1,9 @@
+/* Create a class template to represent a generic vector. Include following member functions:
+      To create the vector.
+      To modify the value of a given element
+      To multiply by a scalar value
+      To display the vector in the form (10,20,30,...) */
+
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
